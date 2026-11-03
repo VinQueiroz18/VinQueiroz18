@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Vinicius Queiroz, estudante de ADS com foco em desenvolvimento backend. Aprender, construir, evoluir.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080E1A"/><stop offset=".55" stop-color="#0B1B2A"/><stop offset="1" stop-color="#15233D"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#52F2CB"/><stop offset="1" stop-color="#7EA9FF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16263C"/><stop offset="1" stop-color="#101B2C"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#1AC7B2" stop-opacity=".23"/><stop offset="1" stop-color="#1AC7B2" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#6885A4" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="1030" cy="188" r="290" fill="url(#glow)"/>
+<rect x="37" y="42" width="5" height="276" rx="2.5" fill="url(#accent)"/>
+<rect x="69" y="45" width="218" height="29" rx="14.5" fill="#132C36" stroke="#295F69" stroke-opacity=".9"/>
+<circle cx="87" cy="59" r="4" fill="#50E3C2"/>
+<text x="100" y="64" fill="#BCE9E2" font-size="14" font-family="Arial,Helvetica,sans-serif" letter-spacing="1">GITHUB / VINQUEIROZ18</text>
+<text x="69" y="119" fill="#90A8BB" font-size="21" font-weight="600" font-family="Arial,Helvetica,sans-serif" letter-spacing="3">OLÁ, EU SOU</text>
+<text x="66" y="184" fill="#F1F7FD" font-size="62" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="1">VINICIUS</text>
+<text x="66" y="247" fill="url(#accent)" font-size="62" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="1">QUEIROZ</text>
+<text x="69" y="283" fill="#C0D0DE" font-size="20" font-family="Arial,Helvetica,sans-serif">Desenvolvimento de software  <tspan fill="#496879">/</tspan>  Foco em Back-End</text>
+<text x="69" y="317" fill="#73CDBE" font-size="17" font-family="Consolas,Menlo,monospace">&gt; aprender(); construir(); evoluir();</text>
+<!-- Right side architecture / roadmap -->
+<g opacity=".75"><path d="M730 44V310 M1220 44V310" stroke="#5C85A6" stroke-opacity=".15" stroke-dasharray="4 7"/></g>
+<rect x="763" y="62" width="450" height="236" rx="18" fill="url(#panel)" stroke="#33516E" stroke-width="1.5"/>
+<rect x="783" y="82" width="410" height="28" rx="8" fill="#0A1727"/>
+<circle cx="798" cy="96" r="4" fill="#F07F8B"/><circle cx="811" cy="96" r="4" fill="#F3C46C"/><circle cx="824" cy="96" r="4" fill="#5DE0C4"/>
+<text x="845" y="100" fill="#8299AD" font-family="Consolas,Menlo,monospace" font-size="13">roadmap / em_construção</text>
+<path d="M836 142V250" stroke="#33596D" stroke-width="3" stroke-dasharray="5 6"/>
+<circle cx="836" cy="148" r="11" fill="#102E32" stroke="#4BE1C1" stroke-width="2.5"/><circle cx="836" cy="198" r="11" fill="#1D2543" stroke="#92A2FF" stroke-width="2.5"/><circle cx="836" cy="248" r="11" fill="#172A3F" stroke="#6EAAE9" stroke-width="2.5"/>
+<text x="862" y="144" fill="#8FA9BA" font-family="Consolas,Menlo,monospace" font-size="13">01 / FUNDAMENTOS</text>
+<text x="862" y="164" fill="#EAF5F8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600">Aprender</text>
+<text x="862" y="194" fill="#8FA9BA" font-family="Consolas,Menlo,monospace" font-size="13">02 / PROJETOS REAIS</text>
+<text x="862" y="214" fill="#EAF5F8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600">Construir</text>
+<text x="862" y="244" fill="#8FA9BA" font-family="Consolas,Menlo,monospace" font-size="13">03 / PRÓXIMO NÍVEL</text>
+<text x="862" y="264" fill="#EAF5F8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600">Evoluir</text>
+<!-- tiny branching diamonds -->
+<path d="M1183 35l9 9-9 9-9-9z" fill="#5CE3C6" opacity=".7"/>
+<path d="M1240 316l8 8-8 8-8-8z" fill="#9DA4FF" opacity=".8"/>
+</svg>
