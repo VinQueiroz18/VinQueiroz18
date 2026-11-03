@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/ADS-UNOESTE-0D2635?style=for-the-badge&amp;logoColor=52F2CB" alt="Graduando em ADS na UNOESTE" />
 </div>
 
-### 👨‍💻 Um pouco sobre mim
+### Um pouco sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na UNOESTE** e estou construindo minha trajetória na área de desenvolvimento de software, com interesse especial em **Back-End**.
 
@@ -25,13 +25,13 @@ Atualmente, aprofundo meus conhecimentos em **Java, Spring Boot e PostgreSQL**, 
 
 ---
 
-### 🛠️ Tecnologias que já utilizo em estudos e projetos
+### Tecnologias que já utilizo em estudos e projetos
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,git,github&amp;theme=dark&amp;perline=8" alt="HTML, CSS, JavaScript, Node.js, Express, MySQL, Git e GitHub" />
 </div>
 
-### 📚 Meu foco de aprendizado atual
+### Meu foco de aprendizado atual
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts&amp;theme=dark&amp;perline=5" alt="Em aprendizado: Java, Spring Boot, PostgreSQL, React e TypeScript" />
@@ -43,18 +43,18 @@ Atualmente, aprofundo meus conhecimentos em **Java, Spring Boot e PostgreSQL**, 
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 Corte Imperial — Projeto Integrador</h3>
+      <h3>Corte Imperial — Projeto Integrador</h3>
       <p>Sistema acadêmico desenvolvido em equipe para apoiar a gestão e a comercialização de uma casa de carnes fictícia. A experiência envolve <strong>regras de negócio, modelagem de dados, arquitetura MVC</strong> e desenvolvimento de funcionalidades administrativas.</p>
       <p><strong>Tecnologias trabalhadas:</strong> Node.js, Express, EJS e MySQL.</p>
       <sub>Projeto acadêmico em equipe • Repositório não divulgado publicamente</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://github.com/VinQueiroz18/FITFORCE">FITFORCE</a></h3>
+      <h3><a href="https://github.com/VinQueiroz18/FITFORCE">FITFORCE</a></h3>
       <p>Projeto pessoal de uma plataforma para academia, utilizado como laboratório para evoluir minhas habilidades e experimentar novas tecnologias.</p>
       <p><strong>Versão disponível:</strong> HTML, CSS e uma estrutura inicial de Back-End em Node.js.</p>
       <p><strong>Evolução planejada:</strong> React, TypeScript, Java, Spring Boot e PostgreSQL.</p>
@@ -65,20 +65,6 @@ Atualmente, aprofundo meus conhecimentos em **Java, Spring Boot e PostgreSQL**, 
 
 **Outros exercícios:** [Portfólio Dev](https://github.com/VinQueiroz18/Projeto-Portfolio-Dev) — desafio prático da Rocketseat com HTML e CSS.
 
-### 🎓 Além do código
+### Além do código
 
 Em 2026, participei do **ENEPE**, apresentando um relato de experiência sobre um projeto integrador desenvolvido durante a graduação. Foi uma oportunidade de compartilhar o processo de desenvolvimento — do levantamento do problema e das regras de negócio à construção da solução — e também de desenvolver minha comunicação.
-
----
-
-### 📈 Minha evolução no GitHub
-
-<div align="center">
-  <a href="https://github.com/VinQueiroz18?tab=overview" title="Ver meu gráfico de contribuições no GitHub">
-    <img src="./assets/github-activity.svg" alt="Acessar o gráfico oficial de contribuições no GitHub" width="95%" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Um projeto de cada vez. Um aprendizado por commit.</sub>
-</div>
