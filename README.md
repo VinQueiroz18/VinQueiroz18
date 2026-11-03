@@ -2,7 +2,7 @@
 <!-- Identidade visual autoral: azul profundo, ciano e violeta. -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Vinicius Queiroz — desenvolvimento de software com foco em Back-End. Aprender, construir e evoluir." width="100%" />
+  <img src="./assets/hero.svg" alt="Vinicius Queiroz — Desenvolvimento Full Stack com foco em Back-End. Formação, projetos e especialização." width="100%" />
 </div>
 
 <br>
