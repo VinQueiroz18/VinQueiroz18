@@ -74,7 +74,9 @@ Em 2026, participei do **ENEPE**, apresentando um relato de experiência sobre u
 ### 📈 Minha evolução no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinQueiroz18&amp;bg_color=0D1626&amp;color=ADDAD6&amp;line=4EDCBF&amp;point=AAA7FF&amp;area=true&amp;hide_border=true&amp;custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições públicas de Vinicius Queiroz no GitHub" width="95%" />
+  <a href="https://github.com/VinQueiroz18?tab=overview" title="Ver meu gráfico de contribuições no GitHub">
+    <img src="./assets/github-activity.svg" alt="Acessar o gráfico oficial de contribuições no GitHub" width="95%" />
+  </a>
 </div>
 
 <div align="center">
